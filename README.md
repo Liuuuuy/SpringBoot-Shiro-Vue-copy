@@ -1,5 +1,5 @@
 # https://github.com/Heeexy/SpringBoot-Shiro-Vue 
-原项目链接如上，如有侵权，请联系我删除，l18345449875@163.com。
+原项目链接如上，如有侵权，请联系我删除。
 
 # Spring Boot-Shiro-Vue
 提供一套基于SpringBoot-shiro-vue的权限管理思路.
